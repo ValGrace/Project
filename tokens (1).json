@@ -1,0 +1,145 @@
+{
+  "global": {
+    "Theme1color": {
+      "value": "#0F6CBF",
+      "type": "color",
+      "description": "use as primary color"
+    },
+    "Theme2color": {
+      "value": "#0073A5",
+      "type": "color"
+    },
+    "Theme3Color": {
+      "value": "#0D1452",
+      "type": "color",
+      "description": "Dark theme"
+    },
+    "Penumbra": {
+      "value": {
+        "x": "0",
+        "y": "6",
+        "blur": "30",
+        "spread": "5",
+        "color": "#1F000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "16 DP Umbra": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "4",
+        "spread": "0",
+        "color": "#40000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "16 DP Ambient": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "10",
+        "spread": "0",
+        "color": "#33000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "Regular Text": {
+      "value": {
+        "fontFamily": "Josefin Sans",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "14px",
+        "letterSpacing": "0.15%",
+        "paragraphSpacing": "0.25%",
+        "textDecoration": "none",
+        "textCase": "As Typed"
+      },
+      "type": "typography",
+      "description": "body text"
+    },
+    "Events Text": {
+      "value": {
+        "fontFamily": "Josefin Sans",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "16",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Upcoming events day text"
+    },
+    "AccountButton": {
+      "value": {
+        "fontFamily": "Rubik",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "20",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "Capitalize"
+      },
+      "type": "typography"
+    },
+    "InputText": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "16",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "As Typed"
+      },
+      "type": "typography",
+      "description": "Placeholder value should be capitalized"
+    },
+    "InputLabels": {
+      "value": {
+        "fontFamily": "Roboto",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "18px",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "Capitalize"
+      },
+      "type": "typography"
+    },
+    "titleLabel": {
+      "value": {
+        "fontFamily": "Rubik",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "36",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
+    },
+    "AlterLink": {
+      "value": {
+        "fontFamily": "Inter",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "14",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
+    }
+  }
+}
